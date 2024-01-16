@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Carlos Oliveira! 👋
-Amo trabalhar com tecnologia especificamente Programação e Suporte, estou buscando me aprimorar cada vez mais. Sou uma pessoa que trabalha muito bem em equipe e procuro sempre ajudar nas soluções.
+Amo trabalhar com tecnologia especificamente Programação, estou buscando me aprimorar cada vez mais. Sou uma pessoa que trabalha muito bem em equipe e procuro sempre ajudar nas soluções.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-oliveira-7a33491a0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlosoliveira_dev?igshid=ZDdkNTZiNTM=)
