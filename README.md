@@ -1,5 +1,5 @@
-### Olá! Eu sou o Carlos Oliveira! 👋
-Sou um desenvolvedor backend que adora tecnologia e programação. Estou sempre em busca de mudanças incrementais, aprendendo cada nova ferramenta e técnica que possa me fazer resolver problemas de forma mais eficiente e eficaz. Tenho um forte senso de trabalho em equipe e sou lembrado pela minha dedicação em ajudar meus colegas de trabalho a encontrar soluções inovadoras.
+### Hello! I'm Carlos Oliveira! 👋
+I'm a backend developer passionate about technology and programming. I'm always seeking incremental improvements, learning new tools and techniques that help me solve problems more efficiently and effectively. I have a strong sense of teamwork and am recognized for my dedication to helping my colleagues find innovative solutions.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-oliveira-7a33491a0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlosoliveira_dev?igshid=ZDdkNTZiNTM=)
