@@ -1,22 +1,99 @@
-### Hello! I'm Carlos Oliveira! 👋
-I'm a backend developer passionate about technology and programming. I'm always seeking incremental improvements, learning new tools and techniques that help me solve problems more efficiently and effectively. I have a strong sense of teamwork and am recognized for my dedication to helping my colleagues find innovative solutions.
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-oliveira-7a33491a0/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlosoliveira_dev?igshid=ZDdkNTZiNTM=)
+# Carlos Oliveira
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosOliveira-23&show_icons=true&theme=onedark)
+```txt
+Backend Engineer • Python Specialist • API Architect
+```
 
-### Tecnologias 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&lines=Building+scalable+APIs;Backend+systems+with+clean+architecture;Automation+and+developer-focused+tools;Always+building.+Always+refining." />
+</p>
 
-<div style="display: inline_block"></br/>
-  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img align="center" alt="KOTLIN" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="SQLSERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img align="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-  <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="DYNAMODB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
-</div><br/>
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CarlosOliveira-23&theme=tokyonight&hide_border=true&background=00000000">
+</p>
+
+</div>
+
+---
+
+## About me
+
+* Backend developer focused on scalable systems and clean architecture
+* Strong experience with Python, FastAPI and API development
+* Passionate about performance, automation and developer experience
+* Building maintainable backend services and integrations
+* Always learning more about distributed systems and software architecture
+
+---
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,kotlin,postgresql,mongodb,dynamodb,aws,linux,git,pycharm,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
+
+</div>
+
+---
+
+## Featured projects
+
+### FastAPI Gateway
+
+Production-ready API Gateway focused on scalability and performance.
+
+* JWT authentication
+* Dynamic routing
+* Rate limiting
+* Caching
+* Microservices communication
+
+:link: https://github.com/CarlosOliveira-23/fastapi-gateway
+
+---
+
+### FastAPI Boilerplate
+
+Scalable backend template for modern production APIs.
+
+* PostgreSQL
+* Docker
+* Alembic
+* JWT Authentication
+* Clean architecture
+
+:link: https://github.com/CarlosOliveira-23/fastapi-boilerplate
+
+---
+
+### FastAPI AutoCRUD
+
+Automatic CRUD API generator for PostgreSQL/MySQL databases.
+
+:link: https://github.com/CarlosOliveira-23/FastAPI-AutoCRUD
+
+---
+
+## Current focus
+
+```txt
+→ Backend architecture
+→ High-performance APIs
+→ Automation systems
+→ Developer tooling
+→ Distributed systems
+```
+
+---
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlos-oliveira-7a33491a0">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
