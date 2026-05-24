@@ -32,9 +32,7 @@ Backend Engineer • Python Specialist • API Architect
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,kotlin,postgresql,mongodb,dynamodb,aws,linux,git,redis,rabbitmq,kubernetes,terraform" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,java,postgresql,mongodb,dynamodb,aws,linux,git,docker,redis,rabbitmq,kubernetes,terraform" />
 
 </div>
 
